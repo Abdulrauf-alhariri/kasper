@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+.vd-container {
+    padding-top: var(--sec-padding);
+    padding-bottom: var(--sec-padding);
+}
+
+.vd-container .exercise {
+    margin-bottom: 100px;
+}
+.vd-container .vd-exercise {
+    margin-bottom: 2rem;
+}
+
+.vd-container .vd-exercise .vd {
+    max-width: 100%;
+}
+
+.vd-container .content h2 {
+    margin-bottom: 1.5rem;
+}
+
+.vd-container .content p {
+    line-height: 1.5;
+}
